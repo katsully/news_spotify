@@ -3,4 +3,3 @@ spotify_keys.json
 venv/
 .ipynb_checkpoints/
 .cache-*
-NOTME.txt
